@@ -1,4 +1,4 @@
 # Compile
 
 ## installation
-sudo mv the executable to /usr/bin, dipshit.
+sudo mv that shit (the executable) to /usr/bin, dipshit.
